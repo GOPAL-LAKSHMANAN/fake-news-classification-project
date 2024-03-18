@@ -13,6 +13,10 @@
 ##  OUTPUT VIDEO:
 
 
+https://github.com/GOPAL-LAKSHMANAN/fake-news-classification-project/assets/139698710/bdcba343-4c70-40b0-bc9c-c9a860b08ee3
+
+
+
 
 ## Machine Learning Models used:
 

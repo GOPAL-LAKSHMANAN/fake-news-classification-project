@@ -1,4 +1,4 @@
-#  fake-news-classification-project
+#  Fake-news-classification-project
 
 ##  Fake news:
 
